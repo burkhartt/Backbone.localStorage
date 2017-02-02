@@ -1,6 +1,6 @@
 {
-  "name": "backbone.localStorage",
-  "version": "1.1.16",
+  "name": "backbone.localStorage.wanderu",
+  "version": "1.1.17",
   "main": "./backbone.localStorage.js",
   "scripts": ["./backbone.localStorage.js"],
   "dependencies": {
