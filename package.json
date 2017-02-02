@@ -1,10 +1,10 @@
 {
   "author": "Jerome Gravel-Niquet <jeromegn@gmail.com> (http://jgn.me)",
-  "name": "backbone.localstorage",
+  "name": "backbone.localstorage.wanderu",
   "version": "1.1.16",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jeromegn/Backbone.localStorage.git"
+    "url": "https://github.com/burkhartt/Backbone.localStorage"
   },
   "devDependencies": {
     "backbone": "~1.x.x",

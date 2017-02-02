@@ -1,5 +1,5 @@
 {
-  "name": "backbone.localStorage",
+  "name": "backbone.localStorage.wanderu",
   "main": "./backbone.localStorage.js",
   "dependencies": {
     "backbone": "~1.x.x"
